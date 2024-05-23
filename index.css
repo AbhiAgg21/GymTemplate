@@ -1,0 +1,233 @@
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+    margin: 168px;
+    padding: 100px;
+    height: 100%;
+    width: 500px;
+    background-image: url(img/bg.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.fa {
+    padding: 7px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: -653px -48px;
+    /* border-radius: 50%; */
+    width: 26px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-instagram {
+    background: palevioletred;
+    color: white;
+    float: left;
+}
+
+.fa-youtube {
+    background: #bb0000;
+    color: white;
+    position: relative;
+    top: -635px;
+    left: 80px;
+}
+
+.xyz {
+    color: rgb(222, 14, 14);
+    position: absolute;
+    top: 170px;
+    right: 70px;
+    border: 5px dashed orange;
+    width: 120px;
+    text-align: center;
+    background-color: aqua;
+    padding: 50px;
+    font-weight: 500;
+    font-size: larger;
+    border-radius: 50px;
+}
+
+.xyz:hover {
+    background-color: orchid;
+    cursor: pointer;
+}
+
+.pqr {
+    color: rgb(222, 14, 14);
+    position: absolute;
+    top: 270px;
+    right: 70px;
+    border: 5px dashed orange;
+    width: 120px;
+    text-align: center;
+    background-color: aqua;
+    padding: 50px;
+    font-weight: 500;
+    font-size: larger;
+    border-radius: 50px;
+}
+
+.pqr:hover {
+    background-color: orchid;
+    cursor: pointer;
+}
+
+.def {
+    color: rgb(222, 14, 14);
+    position: absolute;
+    top: 370px;
+    right: 70px;
+    border: 5px dashed orange;
+    width: 120px;
+    text-align: center;
+    background-color: aqua;
+    padding: 50px;
+    font-weight: 500;
+    font-size: larger;
+    border-radius: 50px;
+}
+
+.def:hover {
+    background-color: orchid;
+    cursor: pointer;
+}
+
+.left {
+    position: absolute;
+    left: 3px;
+    top: 1px;
+    width: 175px;
+}
+
+.left img {
+    width: 111px;
+    margin: 0px 10px;
+}
+
+.mid {
+    color: rgb(0, 44, 82);
+    display: block;
+    width: 669px;
+    margin: -283px 37px 529px;
+    text-align: center;
+}
+
+.right {
+    display: inline-block;
+    color: rgb(19, 74, 122);
+    position: absolute;
+    right: 14px;
+    top: 21px;
+}
+
+.navbar {
+    display: inline-block;
+}
+
+.navbar li {
+    display: inline-block;
+    padding: 14px;
+    width: 42px;
+    margin: 40px;
+}
+
+.navbar li a {
+    color: rgb(235, 93, 93);
+    padding: 10px 5px;
+    margin: -70px -80px;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.navbar li a:hover {
+    text-decoration: underline;
+    background-color: brown;
+    color: beige;
+}
+
+.btn {
+    margin: 0px 9px;
+    background-color: brown;
+    color: rgb(67, 222, 222);
+    padding: 3px 14px;
+    border: 5px solid gray;
+    border-radius: 12px;
+    font-size: 14px;
+}
+
+.btn:hover {
+    color: beige;
+    background-color: blue;
+    cursor: pointer;
+}
+
+.container {
+    border: 5px solid red;
+    border-radius: 50px;
+    background-color: blanchedalmond;
+    color: rgb(5, 57, 57);
+    margin: 59px 3px;
+    padding: 5px;
+    width: 420px;
+    position: absolute;
+    left: 20px;
+    top: 94px;
+    text-align: center;
+}
+
+.container h2 {
+    color: #045da3;
+    margin: auto;
+}
+
+.form-group {
+    margin: -50px -50px;
+    padding: 40px;
+    width: 50px;
+}
+
+.form-group input {
+    text-align: center;
+    width: 203px;
+    margin: 30px 50px;
+    padding: 0px 50px;
+    border: 3px solid black;
+    font-family: 'Roboto Slab', serif;
+    font-weight: bolder;
+    color: black;
+}
+
+.container .btn {
+    width: 210px;
+}
+
+.right.btn:hover {
+    background-color: blue;
+}
+
+.ghi {
+    color: #ff8a1b;
+    margin: 30px;
+    padding: 0px 270px;
+    position: absolute;
+    bottom: -544px;
+    font-family: fantasy;
+    font-size: 41px;
+    left: 275px;
+    word-wrap: nowrap;   
+    
+}
+
+.stu {
+    margin: -238px -265px;
+    padding: 30px 50px;
+    position: absolute;
+    bottom: -376px;
+    left: 230px;
+}
